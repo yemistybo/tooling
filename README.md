@@ -77,4 +77,4 @@ Default web root:
 
 # Sending files over ssh
 
-## Yemi's changes for nfs server >>files over ssh
+## Trying add to set this up
